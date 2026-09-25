@@ -2,7 +2,7 @@
 
 ## Project Description
 
-This project was created as a playground for investigating various filtering and image processing capabilities of the CUDA NPP Library.
+
 Currently, the project provides an implementation of the following filters:
  * Canny Edge Detection Filter (aka. canny);
  * Sobel Edge Detection Filter (aka. sobel);
